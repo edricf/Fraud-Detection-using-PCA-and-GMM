@@ -25,9 +25,9 @@ def plot_roc(fpr, tpr, title='ROC CURVE'):
 
 
 def plot_confusion_matrix(cm, classes,
-						  normalize=False,
-						  title='Confusion matrix',
-						  cmap=plt.cm.Blues):
+			  normalize=False,
+			  title='Confusion matrix',
+			  cmap=plt.cm.Blues):
 	'''
 
 	This function prints and plots the confusion matrix.
@@ -63,7 +63,7 @@ def plot_confusion_matrix(cm, classes,
 
 
 def plot_roc_multiple(fpr_1, tpr_1, fpr_2, tpr_2,
-					   fpr_3, tpr_3, y_test, pred1, pred2, pred3):
+		      fpr_3, tpr_3, y_test, pred1, pred2, pred3):
 
 	'''
 
