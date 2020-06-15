@@ -1,4 +1,4 @@
-# Fraud-Detection-using-PCA-and-GMM
+# Credit Card Fraud Detection
 
 - utils.py contains some function for plotting in our Fraud Detection Analysis
 - Fraud Detection Analysis.ipynb contains our Analysis and model for Credit Card Fraud Detection
