@@ -22,5 +22,6 @@ Techniques used:
 - Accuracy, Precision, Recall, F1 Scores
 - Confusion Matrix (False Positive / True Negative)
 
+![ccfraud](https://user-images.githubusercontent.com/38846737/85499321-5a78ec80-b5af-11ea-8378-25f249ed9d19.png)
 
 Dataset source: https://www.kaggle.com/mlg-ulb/creditcardfraud#creditcard.csv <br />
